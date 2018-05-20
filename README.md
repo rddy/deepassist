@@ -33,7 +33,7 @@ If you find this software useful in your work, we kindly request that you cite t
 ```
 @InProceedings{Reddy/etal/18a,
   title={Shared Autonomy via Deep Reinforcement Learning},
-  author={Reddy, Siddharth and Levine, Sergey and Dragan, Anca},
+  author={Reddy, Siddharth and Dragan, Anca D. and Levine, Sergey},
   booktitle={Arxiv 1802.01744},
   year={2018},
   url={https://arxiv.org/abs/1802.01744}
