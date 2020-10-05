@@ -17,7 +17,7 @@ Install [gym](https://github.com/openai/gym) and replace `gym/envs/box2d/lunar_l
 
 Install [baselines](https://github.com/openai/baselines) and replace `baselines/baselines/deepq/simple.py` with `deepassist/simple.py`.
 
-Extract [this zip file](https://drive.google.com/file/d/1jeNCyhN7LB4TXmDP8ePnxBeGI3eLyi3m/view?usp=sharing) into `deepassist/`.
+Extract [this zip file](https://drive.google.com/file/d/1PWeF-OaX1EaKlyU3eQPwZOl8qv7qlmgL/view?usp=sharing) into `deepassist/`.
 
 For the quadrotor experiments, install [ardrone_autonomy](https://wiki.ros.org/ardrone_autonomy) and [vicon_bridge](https://wiki.ros.org/vicon_bridge).
 
