@@ -1,8 +1,10 @@
 jupyter
 numpy
 scipy
-gym
-tensorflow
+gym==0.7.4
+tensorflow==1.14
 matplotlib
 pyquaternion
 transforms3d
+baselines==0.1.4
+box2d-py
