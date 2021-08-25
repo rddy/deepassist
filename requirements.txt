@@ -2,7 +2,7 @@ jupyter
 numpy
 scipy
 gym==0.7.4
-tensorflow==1.14
+tensorflow==2.5.1
 matplotlib
 pyquaternion
 transforms3d
